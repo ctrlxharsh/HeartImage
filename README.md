@@ -1,4 +1,4 @@
-# HeartImage
+# Shape-Aware Template Mosaic Generation
 Description: Create a beautiful image filled with hearts to spread love.
 
 ## 1st Rule DO NOT Open Testing Phase
